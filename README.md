@@ -3,7 +3,7 @@ Its first fortran version is written by Wei Hu, I rewrite it by python and add s
 Its first python version is provided in the supporting materials of paper "Highly-efficient heterojunction solar cells based on two-dimensional tellurene and transition metal dichalcogenides".
 
 Usage
-1. Prepare two POSCARs (vasp structure file), we call POSCAR1 and POSCAR2.
+1. Prepare two POSCARs (vasp structure file), we call them POSCAR1 and POSCAR2.
 2. Input "python match.py POSCAR1 POSCAR2". You can see something like:
     1 -------------
     mismatch: len: 1.850%, angle: 0.133%, total atoms: 105
